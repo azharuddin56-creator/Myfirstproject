@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 # Python-Mini-Projects
-
+# added a comment for checking pull request functionality
 [![All Contributors](https://img.shields.io/github/contributors/Python-World/python-mini-projects)](#contributors-)
 ![Issues](https://img.shields.io/github/issues/Python-World/python-mini-projects)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Python-World/python-mini-projects?)
